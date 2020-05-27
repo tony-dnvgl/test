@@ -1,2 +1,5 @@
-* item 1
-* item 2
+<ol type="a">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
